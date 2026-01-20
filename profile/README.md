@@ -1,5 +1,7 @@
 # 🎾 Info Esportes
 
+Idiomas: [English](README.en.md) | [Español](README.es.md)
+
 Bem-vindo à organização **Info Esportes** no GitHub!
 
 Somos a empresa responsável pelo **Tênis Integrado**, a plataforma líder no Brasil para gestão completa de torneios, rankings, clubes, academias, federações e confederações de tênis e beach tennis.
