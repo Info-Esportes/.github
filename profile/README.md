@@ -1,6 +1,6 @@
 # 🎾 Info Esportes
 
-Idiomas: [English](README.en.md) | [Español](README.es.md)
+🌐 Idiomas: [English](README.en.md) | [Español](README.es.md)
 
 Bem-vindo à organização **Info Esportes** no GitHub!
 
