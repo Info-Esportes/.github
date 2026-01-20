@@ -1,5 +1,7 @@
 # 🎾 Info Esportes
 
+Languages: [Español](README.es.md) | [Português](README.md)
+
 Welcome to the **Info Esportes** organization on GitHub!
 
 We are the company behind **Tênis Integrado**, Brazil’s leading platform for managing tennis and beach tennis tournaments, rankings, clubs, academies, federations, and confederations.
